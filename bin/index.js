@@ -39,6 +39,10 @@ const icons = [
     name: "performance",
     icon: "⚡️",
   },
+  {
+    name: 'rename',
+    icon: '🚚'
+  }
 ];
 
 // const usage = chalk.keyword('violet')("\nUsage: mycli -l <language>  -s <sentence> \n"

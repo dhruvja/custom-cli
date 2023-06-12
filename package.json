@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "gitx": "./bin/index.js"
+    "mycli": "./bin/index.js"
   },
   "dependencies": {
     "chalk": "^5.2.0",
