@@ -20,7 +20,7 @@ const icons = [
     icon: "🎉",
   },
   {
-    name: "check",
+    name: "checkmark",
     icon: "✅",
   },
   {
